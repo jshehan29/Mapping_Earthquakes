@@ -53,7 +53,7 @@ In a similar manner, earthquakes with a magnitude of 4.5 or greater occuring wit
 
 *Figure 8. Earthquake map JavaScript create geoJson layer for major earthquakes*
 
-Line corresponding to the Earth's tectonic plates are also included as a layer in the map with the code shown in Fig. 9.
+Lines corresponding to the Earth's tectonic plates are also included as a layer in the map with the code shown in Fig. 9.
 
 ![Fig 9](./Resources/Earthquake_js_plates.png)
 
